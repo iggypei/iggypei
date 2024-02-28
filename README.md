@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iggypei
+- 👀 I’m interested in Embedded Systems.
+- 🌱 I’m currently learning Rust 🦀 so that I can build safer embedded software
